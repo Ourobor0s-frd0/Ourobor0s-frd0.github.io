@@ -2,3 +2,5 @@
 currículum vitae (CV y portafolio)
 
 Add NavBar
+
+Add main content
