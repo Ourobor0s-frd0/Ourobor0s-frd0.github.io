@@ -18,3 +18,10 @@ Add footer
 Add link portafolio
 
 Add cabezera portafolio
+
+Add descripcion
+
+Add cartas con los trabajos
+
+Add footer
+
