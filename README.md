@@ -8,3 +8,5 @@ Add main content
 Add perfil
 
 Add experiencia
+
+Add informacion 
